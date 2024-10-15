@@ -1,5 +1,6 @@
-@article{Zhou2024storydiffusion,
-  title={StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation},
-  author={Zhou, Yupeng and Zhou, Daquan and Cheng, Ming-Ming and Feng, Jiashi and Hou, Qibin},
+@article{bu2024broadway,
+  title={BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way},
+  author={Bu, Jiazi and Ling, Pengyang and Zhang, Pan and Wu, Tong and Dong, Xiaoyi and Zang, Yuhang and Cao, Yuhang and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2410.06241},
   year={2024}
 }
